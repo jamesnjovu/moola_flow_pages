@@ -6,9 +6,10 @@ Public legal pages for the Moola Flow Android and iOS app, served with GitHub Pa
 |---|---|
 | Home | https://jamesnjovu.github.io/moola_flow_pages/ |
 | Privacy policy | https://jamesnjovu.github.io/moola_flow_pages/privacy-policy/ |
+| Terms of use | https://jamesnjovu.github.io/moola_flow_pages/terms-of-use/ |
 | Delete account | https://jamesnjovu.github.io/moola_flow_pages/delete-account/ |
 
-The privacy policy URL goes in Play Console under **Policy and programs > App content > Privacy policy**, and the delete account URL goes in the **Data safety** form.
+The privacy policy URL goes in Play Console under **Policy and programs > App content > Privacy policy**, and the delete account URL goes in the **Data safety** form. The app links the privacy policy and terms of use from the sign-up screen and Settings, so keep these URLs stable.
 
 ## Editing
 
